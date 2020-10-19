@@ -9,7 +9,7 @@ https://da2-airline-forecast.s3.eu-central-1.amazonaws.com/airline_2m.tar.gz
 Uncompress it with:
 
 ``` bash
- tar xvf airline_2m.tar.gz
+  tar -zxvf airline_2m.tar.gz
 ```
 
 ## Load the Data into Pandas
